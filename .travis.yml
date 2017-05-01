@@ -1,0 +1,9 @@
+sudo: require
+
+services:
+  - docker
+script:
+  - docker build -t danshan/hubot-slack .
+
+notifications:
+  slack: shanhonghao:pdqZbe3SSqGZahgfKsddxPE5
