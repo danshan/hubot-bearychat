@@ -71,7 +71,7 @@ misc.prop
 tags
 *.bak
 
-bin
+hubot.debug
 node_modules
 .hubot_history
 

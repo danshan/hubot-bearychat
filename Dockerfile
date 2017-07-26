@@ -1,7 +1,7 @@
 FROM danshan/hubot-docker
 MAINTAINER Dan <i@shanhh.com>
 
-RUN npm install hubot-bearychat --save
+RUN npm install
 
 ENV BOTDIR /opt/data/bot
 ENV HUBOT_USER hubot
