@@ -72,8 +72,6 @@ tags
 *.bak
 
 bin
-package.json
-Procfile
 node_modules
 .hubot_history
 
